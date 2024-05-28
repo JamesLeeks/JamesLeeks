@@ -1,5 +1,5 @@
   My name is James Leeks (he/him).
-  At the moment I'm working on a chess website and learning Java in the background.
+  At the moment I'm working on a chess website.
   I enjoy programming, gaming, and reading.
 
 <!---
